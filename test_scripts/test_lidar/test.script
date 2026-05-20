@@ -1,0 +1,154 @@
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+nombre de groupes = 8
+%Les commentaires doivent etre mis ici.
+groupe = 2 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = 7 , type = 29 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %RT
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 13 , type = 14 , nbre neurones = 360 , seuil = 0.000000
+taillex = 360 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_laser
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 8 , type = 14 , nbre neurones = 90 , seuil = 0.000000
+taillex = 90 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 9 , type = 14 , nbre neurones = 90 , seuil = 0.000000
+taillex = 90 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 10 , type = 14 , nbre neurones = 90 , seuil = 0.000000
+taillex = 90 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 11 , type = 14 , nbre neurones = 90 , seuil = 0.000000
+taillex = 90 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 6 , type = 14 , nbre neurones = 360 , seuil = 0.000000
+taillex = 360 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_non
+ech_temps = 0
+
+nombre de liaisons = 7
+%Les commentaires doivent etre mis ici.
+liaison entre 2   et 7 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -t5000
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 8 , type = 5 , nbre = 360 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 2   et 13 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = ???
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 9 , type = 5 , nbre = 360 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x90-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 10 , type = 5 , nbre = 360 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x180-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 11 , type = 5 , nbre = 360 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x270-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 13   et 6 , type = 3 , nbre = 360 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 

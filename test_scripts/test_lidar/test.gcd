@@ -1,0 +1,19 @@
+%SYMBOLIC_NO
+begin dimensions
+fenetre1  400 300 0 
+fenetre2  400 300 0 
+image1  400 300 0 
+image2  400 300 0 
+end dimensions
+groupe = 1 
+p_posx = 24 , p_posy = 28
+debug = 1
+groupe = 2 
+p_posx = 184 , p_posy = 28
+debug = 1
+Begin positions
+fenetre1  202 51 
+fenetre2  101 392 
+image1  0 0 
+image2  0 0 
+End positions

@@ -1,0 +1,377 @@
+nombre de groupes = 22
+%Les commentaires doivent etre mis ici.
+groupe = 11 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 1
+
+%
+groupe = 17 , type = 29 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 24 
+groupe = my_rt_token
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 27 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_bias
+ech_temps = 1
+
+%
+groupe = 35 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = 36 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = 37 , type = 0 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = centre
+ech_temps = 1
+
+%
+groupe = 40 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = size_x , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 0
+
+%
+groupe = 44 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = size_y
+learning rate = 0 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 99 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_frame_rate
+ech_temps = 0
+
+%
+groupe = 105 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sensor2
+ech_temps = 0
+
+%
+groupe = 107 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%
+groupe = 108 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 14 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_image_activity
+ech_temps = 0
+
+%
+groupe = 2 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_clock
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 1 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_image_activity
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 3 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_send_command_to_serial
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 19 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_display_frame_rate
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 18 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sensor2
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 20 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_sensor2
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 21 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_wait_nanosleep
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 4 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_wait_nanosleep
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 22 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_wait_nanosleep
+ech_temps = 0
+
+nombre de liaisons = 23
+%Les commentaires doivent etre mis ici.
+liaison entre 11   et 17 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -t40000
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 107   et 35 , type = 3 , nbre = 1 , norme = -2
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 27   et 35 , type = 3 , nbre = 1 , norme = 1.
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+liaison entre 35   et 36 , type = 3 , nbre = 1 , norme = 0.5
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+liaison entre 27   et 37 , type = 3 , nbre = 1 , norme = 1
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 37   et 36 , type = 3 , nbre = 1 , norme = 0.5
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 108   et 40 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 0,1
+                         proba = 1.000000 
+liaison entre 36   et 44 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 0,1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 40   et 99 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 4   et 105 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = arduino_outputs
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 105   et 107 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 105   et 108 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 36   et 14 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-x20-y20-d1-s1-h100-l400-nAXE0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 17   et 2 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = ??
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 108   et 1 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-x20-y140-d1-s1-h100-l400-nAXE1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 22   et 3 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -Narduino_inputs
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 3   et 19 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 21   et 18 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = arduino_outputs
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 18   et 20 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = arduino_outputs
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 105   et 21 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n4000000
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 19   et 17 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -w
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 17   et 4 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n4000000
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 20   et 22 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n4000000
+                         proba = 1.000000 

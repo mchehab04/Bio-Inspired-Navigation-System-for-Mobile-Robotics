@@ -1,0 +1,18 @@
+PORT = arduino_port
+
+% Corresponds to the Designer Systems ...
+TYPE = 5 
+
+%nb sensors to be read
+NBSENSOR = 3
+
+%code used to dialog with the arduino
+SEND_CODE = G
+CHECK_CODE = g
+
+% max input value
+STOP = 0
+%min input value
+START = 1
+
+ 

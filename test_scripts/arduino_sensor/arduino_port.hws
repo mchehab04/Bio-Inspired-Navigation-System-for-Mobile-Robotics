@@ -1,0 +1,9 @@
+% When you know the device you can use its name to avoid changing from one USB to another...
+%PATH = /dev/serial/by-id/usb-Arduino__www.arduino.cc__Arduino_Mega_2560_64932343638351115151-if00
+PATH = /dev/ttyACM0
+DEBIT = 57600
+%DEBIT = 19200
+%DEBIT = 9600
+BIT = 8
+PARITE = N
+STOP = 1

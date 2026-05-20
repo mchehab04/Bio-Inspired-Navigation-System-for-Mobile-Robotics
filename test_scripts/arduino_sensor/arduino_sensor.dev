@@ -1,0 +1,3 @@
+Sensor arduino_outputs is arduino_outputs.hwc
+Sensor arduino_inputs is arduino_inputs.hwc
+Serial_port arduino_port is arduino_port.hws

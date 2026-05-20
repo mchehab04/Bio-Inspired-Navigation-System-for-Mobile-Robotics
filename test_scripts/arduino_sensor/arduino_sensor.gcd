@@ -1,0 +1,79 @@
+%SYMBOLIC_NO
+begin dimensions
+fenetre1  1217 887 0 
+fenetre2  400 300 0 
+image1  462 300 0 
+image2  400 300 0 
+end dimensions
+groupe = 11 
+p_posx = 24 , p_posy = 28
+debug = 0
+groupe = 17 
+p_posx = 24 , p_posy = 26
+debug = 1
+groupe = 27 
+p_posx = 21 , p_posy = 354
+debug = 1
+groupe = 35 
+p_posx = 363 , p_posy = 202
+debug = 1
+groupe = 36 
+p_posx = 619 , p_posy = 538
+debug = 1
+groupe = 37 
+p_posx = 543 , p_posy = 197
+debug = 1
+groupe = 40 
+p_posx = 263 , p_posy = 529
+debug = 1
+groupe = 44 
+p_posx = 184 , p_posy = 196
+debug = 1
+groupe = 99 
+p_posx = 513 , p_posy = 203
+debug = 0
+groupe = 105 
+p_posx = 181 , p_posy = 26
+debug = 1
+groupe = 107 
+p_posx = 349 , p_posy = 22
+debug = 1
+groupe = 108 
+p_posx = 516 , p_posy = 18
+debug = 1
+groupe = 14 
+p_posx = 984 , p_posy = 196
+debug = 1
+groupe = 2 
+p_posx = 24 , p_posy = 364
+debug = 0
+groupe = 1 
+p_posx = 24 , p_posy = 364
+debug = 1
+groupe = 3 
+p_posx = 709 , p_posy = 74
+debug = 1
+groupe = 19 
+p_posx = 344 , p_posy = 364
+debug = 1
+groupe = 18 
+p_posx = 504 , p_posy = 364
+debug = 1
+groupe = 20 
+p_posx = 664 , p_posy = 364
+debug = 1
+groupe = 21 
+p_posx = 824 , p_posy = 364
+debug = 1
+groupe = 4 
+p_posx = 984 , p_posy = 364
+debug = 1
+groupe = 22 
+p_posx = 24 , p_posy = 532
+debug = 1
+Begin positions
+fenetre1  110 25 
+fenetre2  868 55 
+image1  859 113 
+image2  288 835 
+End positions

@@ -1,0 +1,35 @@
+%fichier hardware de configuration d'une camera
+
+%adresse du port utilise par la camera 
+ port = /dev/video1394/0
+ 
+%dimensionnement de l'optique de la camera
+%angle horizontal
+ teta_h = 32.5
+%angle vertical
+ teta_w = 42
+ type = 4  
+ width = 640
+ height = 480
+ COLOR = 1
+ AUTOCHECK = 0
+ THREADING = 1
+ NB_BUFFERS = 4
+ flush_buffers = 1
+
+ VIDEO_MODE = 69
+ FRAMERATE = 36
+ ISOSPEED = 2
+ ADDR_BUS_FIREWIRE = 1
+
+ brightness = 300
+ exposure = 390
+ %exposure = auto
+ sharpness = 80
+ white_balance = 110,77
+ %white_balance = auto
+ saturation = 90
+ gamma = 1
+ shutter = 6
+ gain = 87
+ %gain = auto

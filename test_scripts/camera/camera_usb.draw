@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbolique><liaison_list>
+	<liaison>
+		<depart>-1</depart>
+		<arrivee>-1</arrivee>
+		<style>0</style>
+	</liaison>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>2</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>2</depart>
+		<arrivee>3</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>2</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+</liaison_list>
+<group_list>
+	<group>
+		<num>1</num>
+		<posx>62</posx>
+		<posy>39</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>2</num>
+		<posx>415</posx>
+		<posy>178</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>3</num>
+		<posx>720</posx>
+		<posy>89</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>4</num>
+		<posx>721</posx>
+		<posy>195</posy>
+		<reverse>-1</reverse>
+	</group>
+</group_list>
+</symbolique>

@@ -1,0 +1,6 @@
+Camera cam is capture.hwc
+Sensor arduino_inputs is arduino_inputs.hwc
+Sensor arduino_outputs is arduino_outputs.hwc
+Serial_port arduino_port is arduino_port.hws
+joystick joy is joystick.hwj
+Laser laser is laser.hwl

@@ -1,0 +1,21 @@
+%fichier hardware de configuration d'une camera
+
+%adresse du port utilise par la camera 
+ port = /dev/video0
+ 
+%dimensionnement de l'optique de la camera
+%angle horizontal
+ teta_h = 42
+%angle vertical
+ teta_w = 32
+ type = 7
+
+ width = 640
+ height = 480
+ color = 1
+
+ nb_buffers = 4
+ flush_buffers = 0
+
+ %note: les valeurs donnees pour les angles sont ici arbitraires
+ AUTOCHECK = 0

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbolique><liaison_list>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>2</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>15</depart>
+		<arrivee>14</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>2</depart>
+		<arrivee>15</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>16</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>17</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>10</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>10</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>12</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>12</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>13</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>13</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+</liaison_list>
+<group_list>
+	<group>
+		<num>1</num>
+		<posx>204</posx>
+		<posy>687</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>2</num>
+		<posx>327</posx>
+		<posy>691</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>14</num>
+		<posx>647</posx>
+		<posy>585</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>15</num>
+		<posx>481</posx>
+		<posy>500</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>16</num>
+		<posx>840</posx>
+		<posy>486</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>17</num>
+		<posx>1208</posx>
+		<posy>670</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>10</num>
+		<posx>825</posx>
+		<posy>767</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>11</num>
+		<posx>954</posx>
+		<posy>685</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>12</num>
+		<posx>818</posx>
+		<posy>865</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>13</num>
+		<posx>827</posx>
+		<posy>606</posy>
+		<reverse>-1</reverse>
+	</group>
+</group_list>
+</symbolique>

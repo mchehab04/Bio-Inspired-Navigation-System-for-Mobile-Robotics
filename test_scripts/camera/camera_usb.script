@@ -1,0 +1,69 @@
+%!ignore_include 
+nombre de groupes = 4
+%Les commentaires doivent etre mis ici.
+groupe = 1 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = 2 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_grabimages
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 3 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_affiche_image_from_extension
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 4 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_frame_rate
+ech_temps = 0
+
+nombre de liaisons = 4
+liaison entre -1   et -1 , type = 1 , nbre = 0 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 1   et 2 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -hcam-c1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 2   et 3 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = ???
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 2   et 4 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n20
+                         proba = 1.000000 
