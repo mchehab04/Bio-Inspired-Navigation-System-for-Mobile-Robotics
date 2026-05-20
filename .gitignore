@@ -1,0 +1,23 @@
+# Promethe save/results
+*.SAVE
+*.res
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup files
+.backup/
+
+# VS Code
+.vscode/
+
+# Mac hidden files
+._*
